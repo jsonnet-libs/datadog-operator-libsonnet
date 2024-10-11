@@ -124,4 +124,48 @@
          <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.8.0/datadoghq/v2alpha1/datadogAgent/</loc>
          <lastmod>2024-10-11</lastmod>
     </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v1alpha1/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v1alpha1/datadogAgentProfile/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v1alpha1/datadogDashboard/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v1alpha1/datadogMetric/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v1alpha1/datadogMonitor/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v1alpha1/datadogPodAutoscaler/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v1alpha1/datadogSLO/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v2alpha1/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/datadog-operator-libsonnet/1.9.0/datadoghq/v2alpha1/datadogAgent/</loc>
+         <lastmod>2024-10-11</lastmod>
+    </url>
 </urlset>
